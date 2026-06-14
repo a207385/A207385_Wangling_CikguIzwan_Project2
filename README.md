@@ -24,6 +24,7 @@ This project successfully upgraded from Project 1 by implementing the following 
 ## 🛠️ Setup and Run Instructions
 To successfully build and run this application, please follow these steps:
 
-1. **Clone the repository:**
+1. **Clone the Repository:**
+   Open your terminal or command prompt and run the following command to clone the project to your local machine:
 ```bash
    git clone [https://github.com/a207385/A207385_WANGLING_CikguIzwan_Project2.git](https://github.com/a207385/A207385_WANGLING_CikguIzwan_Project2.git)
