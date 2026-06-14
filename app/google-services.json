@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373188699163",
+    "project_id": "ecofridgetracker-673d7",
+    "storage_bucket": "ecofridgetracker-673d7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373188699163:android:955bc63f817c9cacf344be",
+        "android_client_info": {
+          "package_name": "com.example.a207385_wangling_cikguizwan_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHhmogKZFJVuNfhERiUcdF1UVcE32uhkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
