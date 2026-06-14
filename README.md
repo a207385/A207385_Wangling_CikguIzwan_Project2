@@ -28,3 +28,7 @@ To successfully build and run this application, please follow these steps:
    Open your terminal or command prompt and run the following command to clone the project to your local machine:
 ```bash
    git clone [https://github.com/a207385/A207385_WANGLING_CikguIzwan_Project2.git](https://github.com/a207385/A207385_WANGLING_CikguIzwan_Project2.git)
+
+2. **Open in Android Studio:** Launch Android Studio, click **File > Open**, select the cloned project directory, and wait a few minutes for the Gradle files to fully sync.
+
+3. **Build and Run the Application:** Connect your Android device or start an emulator (make sure it has an active internet connection and camera working to test CameraX, Retrofit, and Firebase), then click the green **Run** button (or press `Shift + F10`) to deploy.
